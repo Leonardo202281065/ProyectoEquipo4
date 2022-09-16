@@ -1,0 +1,15 @@
+.imagen{
+    width: 80%;
+}
+
+.banner{
+    margin: 0%;
+    width: 100%;
+}
+body {
+    font-family: sans-serif;
+    background-color: rgb(168, 240, 252);
+}
+.menú-principal{
+    background-color: rgb(189, 245, 233);
+}
