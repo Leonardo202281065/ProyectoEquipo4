@@ -1,0 +1,103 @@
+[
+    {
+        "id": "1",
+        "nombre": "Caminata monserrate",
+        "descripcion": "caminata desde el centro de bogota hast la iglesia de monserrate, se desayunara en la mitad de la montaña tamal con chocolate.",
+        "valor": 300000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": " Carrera 2da este n° 21-48, Bogotá, Cundinamarca"
+        },        
+        "imagen": "https://viajandox.com.co/uploads/Monserrate_1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Paseo en lancha parque simon bolivar",
+        "descripcion": "Paseo en lancha en el lago del parque simo bolivar",
+        "valor": 50000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": "Av. Calle 53 y Av. Esmeralda, Bogotá, Cundinamarca"
+        },  
+        "imagen": "https://www.ecured.cu/images/2/2f/Parque_Sim%C3%B3n_Bolivar.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Maloka Museo Interactivo",
+        "descripcion": "Visita al museo y entrada a funcion en el cine domo",
+        "valor": 800000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": "Cra. 68d #No 24A - 51, Bogotá, Cundinamarca"
+        },
+        "imagen": "https://www.elnuevosiglo.com.co/sites/default/files/styles/noticia_interna/public/2019-06/01%20B%20maloka.jpg"
+    },
+    {
+        "id": "1",
+        "nombre": "Caminata monserrate",
+        "descripcion": "caminata desde el centro de bogota hast la iglesia de monserrate, se desayunara en la mitad de la montaña tamal con chocolate.",
+        "valor": 300000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": " Carrera 2da este n° 21-48, Bogotá, Cundinamarca"
+        },        
+        "imagen": "https://viajandox.com.co/uploads/Monserrate_1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Paseo en lancha parque simon bolivar",
+        "descripcion": "Paseo en lancha en el lago del parque simo bolivar",
+        "valor": 50000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": "Av. Calle 53 y Av. Esmeralda, Bogotá, Cundinamarca"
+        },  
+        "imagen": "https://www.ecured.cu/images/2/2f/Parque_Sim%C3%B3n_Bolivar.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Maloka Museo Interactivo",
+        "descripcion": "Visita al museo y entrada a funcion en el cine domo",
+        "valor": 800000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": "Cra. 68d #No 24A - 51, Bogotá, Cundinamarca"
+        },
+        "imagen": "https://www.elnuevosiglo.com.co/sites/default/files/styles/noticia_interna/public/2019-06/01%20B%20maloka.jpg"
+    },
+    {
+        "id": "1",
+        "nombre": "Caminata monserrate",
+        "descripcion": "caminata desde el centro de bogota hast la iglesia de monserrate, se desayunara en la mitad de la montaña tamal con chocolate.",
+        "valor": 300000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": " Carrera 2da este n° 21-48, Bogotá, Cundinamarca"
+        },        
+        "imagen": "https://viajandox.com.co/uploads/Monserrate_1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Paseo en lancha parque simon bolivar",
+        "descripcion": "Paseo en lancha en el lago del parque simo bolivar",
+        "valor": 50000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": "Av. Calle 53 y Av. Esmeralda, Bogotá, Cundinamarca"
+        },  
+        "imagen": "https://www.ecured.cu/images/2/2f/Parque_Sim%C3%B3n_Bolivar.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Maloka Museo Interactivo",
+        "descripcion": "Visita al museo y entrada a funcion en el cine domo",
+        "valor": 800000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-09-15T08:00:00",
+            "direccion": "Cra. 68d #No 24A - 51, Bogotá, Cundinamarca"
+        },
+        "imagen": "https://www.elnuevosiglo.com.co/sites/default/files/styles/noticia_interna/public/2019-06/01%20B%20maloka.jpg"
+    }
+    
+
+]
