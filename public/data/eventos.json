@@ -34,69 +34,91 @@
     },
     {
         "id": "1",
-        "nombre": "Caminata monserrate",
-        "descripcion": "caminata desde el centro de bogota hast la iglesia de monserrate, se desayunara en la mitad de la montaña tamal con chocolate.",
-        "valor": 300000,
+        "nombre": "Museo del Oro",
+        "descripcion": " Otra de las joyas de sitios turísticos de Bogotá, escondidas en corazón de La Candelaria, un museo donde se exhibe la colección de orfebrería prehispánica más grande del mundo, con cerca de treinta y cuatro mil piezas provenientes de diferentes culturas indígenas, tales como la Calima, Muisca, Nariño, Quimbaya, Sinú, Tayrona, San Agustín, Tierradentro, Tolima, entre otras.         Entre sus piezas destacadas, se encuentra la famosa “Balsa Muisca”, pequeña escultura en oro y cobre, asociada a la Leyenda del Dorado, fabricada por la cultura muisca entre los años 600 y 1600 d.C. Otro punto de interés del museo, lo constituye el edificio mismo que lo alberga, una obra de arquitectura moderna, reconocida con el Premio Nacional de Arquitectura en 1970. ",
+        "valor": 36000,
         "puntoDeEncuentro": {
             "fecha": "2022-09-15T08:00:00",
-            "direccion": " Carrera 2da este n° 21-48, Bogotá, Cundinamarca"
+            "direccion": "Cra. 6 #15-88, Bogotá, Cundinamarca"
         },        
-        "imagen": "https://viajandox.com.co/uploads/Monserrate_1.jpg"
+        "imagen": "images/museo-oro.jpg"
     },
     {
         "id": "2",
-        "nombre": "Paseo en lancha parque simon bolivar",
-        "descripcion": "Paseo en lancha en el lago del parque simo bolivar",
-        "valor": 50000,
+        "nombre": "Centro Cultural Gabriel García Márquez",
+        "descripcion": " Este espacio cultural se encuentra ubicado en La Candelaria, acogiendo espacios de exposición, librería, aulas educativas y locales comerciales. Dentro de sus principales atractivos, figura la inmensa librería del Fondo de Cultura Económica, con más de 100.000 volúmenes, un paraíso para amantes de los libros con las más variadas temáticas.         El edificio que alberga al centro cultural, tampoco deja de ser interesante, correspondiendo a una construcción inaugurada el año 2008, diseñada por el famoso arquitecto colombiano Rogelio Salmona, con sugestivas pasarelas al aire libre, que permiten mirar hacia la ciudad antigua, a lo largo de recorridos circulares en torno a dos patios centrales. ",
+        "valor": 100000,
         "puntoDeEncuentro": {
-            "fecha": "2022-09-15T08:00:00",
-            "direccion": "Av. Calle 53 y Av. Esmeralda, Bogotá, Cundinamarca"
+            "fecha": "2022-10-15T08:00:00",
+            "direccion": "Cl. 11 #5-60, Bogotá, Cundinamarca"
         },  
-        "imagen": "https://www.ecured.cu/images/2/2f/Parque_Sim%C3%B3n_Bolivar.jpg"
+        "imagen": "images/centro-cultural-gabo.jpg"
     },
     {
         "id": "3",
-        "nombre": "Maloka Museo Interactivo",
-        "descripcion": "Visita al museo y entrada a funcion en el cine domo",
-        "valor": 800000,
+        "nombre": "barrio-macarena",
+        "descripcion": "Una de las zonas más bohemias de la ciudad, conocida como el Soho de Bogotá, haciendo alusión a los sohos de Buenos Aires, Nueva York y Londres, destacando por su concentración de tiendas de diseño, galerías de arte, bares y restaurantes. Dentro de sus sitios de interés, destacan el inmenso Parque Independencia, las Torres del Parque proyectadas por el famoso arquitecto colombiano Rogelio Salmona, el Observatorio Astronómico y la Librería Luvina, ésta última, una interesante tienda que permite revisar una amplia variedad de libros mientras se disfruta de una copa de vino o una taza de café.",
+        "valor": 60000,
         "puntoDeEncuentro": {
-            "fecha": "2022-09-15T08:00:00",
-            "direccion": "Cra. 68d #No 24A - 51, Bogotá, Cundinamarca"
+            "fecha": "2022-09-31T08:00:00",
+            "direccion": "Av. Carrera 5 No. 12C - 40, Bogotá, Cundinamarca"
         },
-        "imagen": "https://www.elnuevosiglo.com.co/sites/default/files/styles/noticia_interna/public/2019-06/01%20B%20maloka.jpg"
-    },
-    {
-        "id": "1",
-        "nombre": "Caminata monserrate",
-        "descripcion": "caminata desde el centro de bogota hast la iglesia de monserrate, se desayunara en la mitad de la montaña tamal con chocolate.",
-        "valor": 300000,
-        "puntoDeEncuentro": {
-            "fecha": "2022-09-15T08:00:00",
-            "direccion": " Carrera 2da este n° 21-48, Bogotá, Cundinamarca"
-        },        
-        "imagen": "https://viajandox.com.co/uploads/Monserrate_1.jpg"
-    },
-    {
-        "id": "2",
-        "nombre": "Paseo en lancha parque simon bolivar",
-        "descripcion": "Paseo en lancha en el lago del parque simo bolivar",
-        "valor": 50000,
-        "puntoDeEncuentro": {
-            "fecha": "2022-09-15T08:00:00",
-            "direccion": "Av. Calle 53 y Av. Esmeralda, Bogotá, Cundinamarca"
-        },  
-        "imagen": "https://www.ecured.cu/images/2/2f/Parque_Sim%C3%B3n_Bolivar.jpg"
+        "imagen": "images/barrio-macarena.jpg"
     },
     {
         "id": "3",
-        "nombre": "Maloka Museo Interactivo",
-        "descripcion": "Visita al museo y entrada a funcion en el cine domo",
-        "valor": 800000,
+        "nombre": "Museo de Botero",
+        "descripcion": " Situado en el barrio de La Candelaria, corresponde sin duda, a uno de los más famosos sitios turísticos de Bogotá, albergando más de un centenar de obras del famoso artista colombiano Fernando Botero, y otras de importantes artistas internacionales, entre los cuales figuran Renoir, Monet, Edgar Degas, Marc Chagall, Gustav Klimt y Salvador Dalí, entre otros.         Entre las obras de Botero, se pueden encontrar una amplia variedad de exploraciones en óleos, dibujos y esculturas donde el autor pone de manifiesto sus tan características volumetrías exaltadas. Entre ellas, una de las más destacadas, corresponde a su propia versión de la Monalisa de Leonardo da Vinci, realizada en 1977. ",
+        "valor": 90000,
         "puntoDeEncuentro": {
-            "fecha": "2022-09-15T08:00:00",
-            "direccion": "Cra. 68d #No 24A - 51, Bogotá, Cundinamarca"
+            "fecha": "2022-10-31T08:00:00",
+            "direccion": "Cl. 11 #4-41, Bogotá, Cundinamarca"
         },
-        "imagen": "https://www.elnuevosiglo.com.co/sites/default/files/styles/noticia_interna/public/2019-06/01%20B%20maloka.jpg"
+        "imagen": "images/museo-botero.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Plazoleta del Chorro de Quevedo",
+        "descripcion": " Una de las zonas bohemias por excelencia del Barrio la Candelaria, correspondiendo a una pintoresca plazoleta rodeada por calles angostas y casas coloniales, con numerosos bares y cafeterías, espectáculos de música al aire libre y artesanos que venden sus trabajos. Si bien muchas de sus construcciones proceden de la época colonial, su imagen actual es fruto de modernas restauraciones basándose en antiguas maquetas e imágenes que se tenían de ella. De esta forma, en 1969 se instaló la pileta central y la Ermita de San Miguel del Príncipe, a imagen de la antigua Capilla del Humilladero, que fue la primera iglesia que tuvo Bogotá. ",
+        "valor": 10000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-10-11T08:00:00",
+            "direccion": "Cl. 12b #22 2-98, Bogotá, Cundinamarca"
+        },
+        "imagen": "images/plazoleta-quevedo.jpeg"
+    },
+    {
+        "id": "3",
+        "nombre": "Torre Colpatria",
+        "descripcion": " Situada en el barrio financiero de la ciudad, corresponde a uno de los más representativos sitios turísticos de Bogotá y al rascacielos más alto de la Colombia, alcanzando la impresionante altura de 196 metros. Su mayor atractivo, corresponde a su mirador en el piso número 50, desde donde se pueden obtener espectaculares vistas panorámicas del centro ciudad. Durante la noche, la torre normalmente es iluminada, con luces LED. ",
+        "valor": 110000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-08-11T08:00:00",
+            "direccion": "Cra. 7 #24-89, Bogotá, Cundinamarca"
+        },
+        "imagen": "images/torre-colpatria.jpeg"
+    },
+    {
+        "id": "3",
+        "nombre": "Laguna de Guatavita",
+        "descripcion": " Localizada a 75 kilómetros de la ciudad, corresponde a una laguna a 2.990 metros de altitud, famosa por ser el lugar al que hacen alusión las antiguas Leyendas del Dorado, según la cual el cacique muisca, llenaba la laguna con oro y tesoros, como ofrenda y símbolo de adoración a la diosa del agua.         El pueblo localizado en su entorno fue construido en la década de los sesenta, con el fin de reubicar a los habitantes del antiguo pueblo que quedaría sumergido por la construcción del Embalse de Tominé. Su diseño urbano hace referencia a la época colonial, con casas blancas con tejas de barro y pequeñas plazoletas. ",
+        "valor": 210000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-08-11T08:00:00",
+            "direccion": "Laguna de Guatavita, Cundinamarca"
+        },
+        "imagen": "images/laguna-guatavita.jpeg"
+    },
+    {
+        "id": "3",
+        "nombre": "Catedral de Sal de Zipaquirá",
+        "descripcion": " Localizada a 75 kilómetros de la ciudad, corresponde a una laguna a 2.990 metros de altitud, famosa por ser el lugar al que hacen alusión las antiguas Leyendas del Dorado, según la cual el cacique muisca, llenaba la laguna con oro y tesoros, como ofrenda y símbolo de adoración a la diosa del agua.         El pueblo localizado en su entorno fue construido en la década de los sesenta, con el fin de reubicar a los habitantes del antiguo pueblo que quedaría sumergido por la construcción del Embalse de Tominé. Su diseño urbano hace referencia a la época colonial, con casas blancas con tejas de barro y pequeñas plazoletas. ",
+        "valor": 210000,
+        "puntoDeEncuentro": {
+            "fecha": "2022-08-11T08:00:00",
+            "direccion": "Laguna de Guatavita, Cundinamarca"
+        },
+        "imagen": "images/catedral-zipaquira.jpeg"
     }
     
 
